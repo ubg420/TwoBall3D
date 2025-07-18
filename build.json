@@ -1,0 +1,16 @@
+{
+"companyName": "AYNGames",
+"productName": "Slope City",
+"productVersion": "1",
+"dataUrl": "TwoBall3D.data.unityweb",
+"wasmCodeUrl": "TwoBall3D.wasm.code.unityweb",
+"wasmFrameworkUrl": "TwoBall3D.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
